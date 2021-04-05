@@ -1,4 +1,4 @@
-# Ramki A #BlackLivesMatter
+# Ramki A
 Hi, I'm Ramki (he/him)—a senior FullStack Developer at @Edxi on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces.
 ## My values
 - Safety and trust<br>
